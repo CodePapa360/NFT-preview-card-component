@@ -26,7 +26,7 @@ Users should be able to:
 - [👉 Click here to see Live preview](https://codepapa360.github.io/NFT-preview-card-component/)
 <br>
 
-- [👉 Frontendmentor solution page]()
+- [👉 Frontendmentor solution page](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-8cZMepxWGR)
 
 ## My process
 
